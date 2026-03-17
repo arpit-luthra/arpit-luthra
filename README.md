@@ -9,7 +9,7 @@ My main tech stack is **Python**, **C#**, and **Java**, with primary focus on bu
 ##
 Fun Facts:
 * **Musician**: Professional percussionist (Tabla, Dhol, and Dholak)
-* **Leadership**: Co-Founder of a multi-cultural dance academy
+* **Leadership**: Co-Founder of a cultural dance academy
 * **Volunteering**: Regularly dedicating service to the **Sant Nirankari Mission** and **TRCA**
 * **Athletics**: Enjoy distance running and playing basketball
 ##
